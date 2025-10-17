@@ -118,13 +118,13 @@ const handleAddPost = (postData) => {
 };
 ```
 
-## API
+## 📄 API
 
 ```
 https://example.com
 ```
 
-## Тестирование
+## 📄 Тестирование
 ```
 lorem-lorem-lorem
 ```
